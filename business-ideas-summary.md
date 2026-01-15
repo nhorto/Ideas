@@ -1,9 +1,3 @@
-# Business Ideas - Quick Reference
-
-A one-liner summary of each business idea.
-
----
-
 ## Original Ideas (1-23)
 
 1. **TikTok Shop Analytics and Profit Dashboard** - Dashboard showing true profit margins for TikTok Shop sellers after fees, shipping, and costs.
