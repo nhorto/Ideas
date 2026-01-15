@@ -1,9 +1,3 @@
-# Business Ideas - Detailed Descriptions
-
-This document provides detailed descriptions for each business idea, including niche/vertical applications and suggested variations.
-
----
-
 ## 1. TikTok Shop Analytics and Profit Dashboard
 
 **Description:**
