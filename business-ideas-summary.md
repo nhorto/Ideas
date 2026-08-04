@@ -85,3 +85,9 @@
 ---
 
 **Total: 36 ideas**
+
+---
+
+## Related Documents
+
+- **[geolibre-business-ideas.md](geolibre-business-ideas.md)** — 14 business ideas built around [GeoLibre](https://github.com/opengeos/GeoLibre), the MIT-licensed open-source cloud-native GIS platform. Covers managed hosting, paid plugins, white-label vertical distributions, data subscriptions, migration consulting, and AI layers.
